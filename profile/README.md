@@ -45,7 +45,7 @@ Each PharmacyIQ module is self-contained and API-ready, enabling flexible deploy
 
 
 ## 👥 Team
-Built by the product and engineering team at [Stag.ai](https://stag.ai), in collaboration with practicing pharmacists, regulatory experts, and health tech advisors.
+Built by the product and engineering team at [Stag.ai](https://stag-ai.com), in collaboration with practicing pharmacists, regulatory experts, and health tech advisors.
 
 > PharmacyIQ is more than a product – it's a movement to bring intelligent, compliant, and connected technology to frontline pharmacies worldwide.
 
